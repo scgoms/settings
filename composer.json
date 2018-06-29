@@ -1,0 +1,12 @@
+{
+    "name": "scgom/settings",
+    "description": "Basic Settings System",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sean",
+            "email": "scgoms@gmail.com"
+        }
+    ],
+    "require": {}
+}
