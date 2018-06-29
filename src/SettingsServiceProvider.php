@@ -1,6 +1,6 @@
 <?php
 
-namespace Goms\Settings;
+namespace GomsTech\Settings;
 
 use Illuminate\Support\ServiceProvider;
 
